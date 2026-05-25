@@ -1,0 +1,70 @@
+{
+  "file": "sample_resumes/Soloviev_eng.pdf",
+  "name": "Anatoly SOLOVIEV",
+  "email": null,
+  "phone": null,
+  "links": {
+    "linkedin": null,
+    "github": null,
+    "website": "http://mag.gcras.ru/"
+  },
+  "skills": [],
+  "education": [
+    {
+      "degree_line": "\uf0b7 Corresponding member of the Russian Academy of Sciences (2016);",
+      "institution": "the Russian Academy of Sciences",
+      "year": "2016"
+    },
+    {
+      "degree_line": "multidimensional data sets, was developed. It can be considered a post -clustering",
+      "institution": null,
+      "year": null
+    },
+    {
+      "degree_line": "vector of anomalies generating bodies with high resolution to be determined. It was",
+      "institution": null,
+      "year": null
+    },
+    {
+      "degree_line": "allows the definitive (verified) data to be obtained in near real time. The latter",
+      "institution": null,
+      "year": null
+    },
+    {
+      "degree_line": "recognition of secular acceleration pulses using observatory data solely has been",
+      "institution": null,
+      "year": null
+    }
+  ],
+  "experience": {
+    "total_years": 59,
+    "date_ranges": [
+      "2002 \u2013 2005",
+      "1996 \u2013 2002",
+      "2018 \u2013 2019",
+      "2005 \u2013 2010",
+      "1999 \u2013 2005",
+      "2017 \u2013 2022",
+      "2013 \u2013 2017",
+      "2015 \u2013 2017",
+      "2015 \u2013 2023",
+      "2020 \u2013 2023",
+      "2014 \u2013 2018",
+      "2017 \u2013 2023",
+      "2010 \u2013 2016"
+    ],
+    "companies": [
+      "Schmidt Institute of Physics of the Earth",
+      "the Russian Academy of Sciences",
+      "Post",
+      "the Schmidt Institute of Physics",
+      "Applied Mathematics",
+      "State Institute of Steel",
+      "the Geophysical Center",
+      "the Russian Academy of \nSciences"
+    ],
+    "job_titles": [
+      "Intern"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "file": "sample_resumes/Arka_NISER_CV.pdf",
+  "name": "Arka Ghosh",
+  "email": "pearka.ghosh@niser.ac.in",
+  "phone": "+91-9832656493",
+  "links": {
+    "linkedin": null,
+    "github": null,
+    "website": null
+  },
+  "skills": [
+    "Linux",
+    "Machine Learning",
+    "Python"
+  ],
+  "education": [
+    {
+      "degree_line": "Integrated MSc ( 8th semester ongoing) CGPA: 8.35 (till 7th semester)",
+      "institution": null,
+      "year": null
+    },
+    {
+      "degree_line": "\u202212thF rom Dabcha Nabakola High School (H.S.) 2022",
+      "institution": "\u202212thF",
+      "year": "2022"
+    },
+    {
+      "degree_line": "West Bengal Council of Higher Secondary Education (WBCHSE), West Bengal, India Percentage: 94%",
+      "institution": "West Bengal",
+      "year": null
+    },
+    {
+      "degree_line": "\u202210thF rom Dabcha Nabakola High School (H.S.) 2020",
+      "institution": null,
+      "year": "2020"
+    },
+    {
+      "degree_line": "West Bengal Board of Secondary Education (WBBSE), West Bengal, India Percentage: 93%",
+      "institution": "West Bengal Board of Secondary Education",
+      "year": null
+    }
+  ],
+  "experience": {
+    "total_years": 5,
+    "date_ranges": [
+      "2022 \u2013 2027"
+    ],
+    "companies": [
+      "School of Physical Sciences",
+      "National Institute Of Science Education",
+      "Institute of Science Education and Research",
+      "NISER",
+      "West Bengal Council of Higher Secondary Education",
+      "West Bengal Board of Secondary Education",
+      "WBBSE",
+      "KVPY"
+    ],
+    "job_titles": [
+      "Intern"
+    ]
+  }
+}

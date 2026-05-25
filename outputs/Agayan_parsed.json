@@ -1,0 +1,60 @@
+{
+  "file": "sample_resumes/Agayan.pdf",
+  "name": "Sergei Agayan",
+  "email": null,
+  "phone": null,
+  "links": {
+    "linkedin": null,
+    "github": null,
+    "website": null
+  },
+  "skills": [],
+  "education": [
+    {
+      "degree_line": "\uf0b7 Ph.D. in physics and mathematics , specialty \u201cThe Theory of Functions and Functional",
+      "institution": null,
+      "year": null
+    },
+    {
+      "degree_line": "\uf0b7 Construction of a structural beam for non-Archimedean Banach algebras;",
+      "institution": null,
+      "year": null
+    },
+    {
+      "degree_line": "Member of the Scientific Council of the Geophysical Center of the Russian Academy of",
+      "institution": "the Scientific Council of the Geophysical Center",
+      "year": null
+    },
+    {
+      "degree_line": "Consultant for one doctoral and four PhD theses.",
+      "institution": null,
+      "year": null
+    }
+  ],
+  "experience": {
+    "total_years": 42,
+    "date_ranges": [
+      "1973 \u2013 1974",
+      "2009 \u2013 2013",
+      "2001 \u2013 2006",
+      "1999 \u2013 2006",
+      "1978 \u2013 1990",
+      "2010 \u2013 2013",
+      "2005 \u2013 2015"
+    ],
+    "companies": [
+      "Faculty of Mechanics and Mathematics",
+      "MSU",
+      "Institute of Earthquake \nPrediction Theory",
+      "Mathematical Geophysics",
+      "RAS",
+      "Plancherel",
+      "Recognition",
+      "Scientific"
+    ],
+    "job_titles": [
+      "Consultant",
+      "Intern"
+    ]
+  }
+}

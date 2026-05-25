@@ -1,0 +1,97 @@
+{
+  "file": "sample_resumes/sample_resume.pdf",
+  "name": "Arjun Sharma\narjun.sharma@gmail.com",
+  "email": "arjun.sharma@gmail.com",
+  "phone": "+91-9876543210",
+  "links": {
+    "linkedin": "linkedin.com/in/arjunsharma",
+    "github": "github.com/arjunsharma",
+    "website": null
+  },
+  "skills": [
+    "Agile",
+    "Aws",
+    "Bash",
+    "Css",
+    "Deep Learning",
+    "Django",
+    "Docker",
+    "Fastapi",
+    "Figma",
+    "Firebase",
+    "Flask",
+    "Gcp",
+    "Git",
+    "Github",
+    "Html",
+    "Java",
+    "Javascript",
+    "Jenkins",
+    "Jira",
+    "Kubernetes",
+    "Linux",
+    "Machine Learning",
+    "Matplotlib",
+    "Mongodb",
+    "Mysql",
+    "Nlp",
+    "Nltk",
+    "Nodejs",
+    "Numpy",
+    "Pandas",
+    "Postgresql",
+    "Postman",
+    "Power Bi",
+    "Python",
+    "Pytorch",
+    "React",
+    "Redis",
+    "Rest Api",
+    "Scikit-Learn",
+    "Scrum",
+    "Spacy",
+    "Sql",
+    "Tableau",
+    "Tensorflow",
+    "Typescript"
+  ],
+  "education": [
+    {
+      "degree_line": "B.Tech in Computer Science \u2014 Indian Institute of Technology (IIT) Bombay",
+      "institution": "B.Tech",
+      "year": null
+    },
+    {
+      "degree_line": "12th (HSC) \u2014 Delhi Public School, New Delhi | 2015 | 94.6%",
+      "institution": "Delhi Public School",
+      "year": "2015"
+    },
+    {
+      "degree_line": "10th (SSC) \u2014 Delhi Public School, New Delhi | 2013 | 96.2%",
+      "institution": "SSC",
+      "year": "2013"
+    }
+  ],
+  "experience": {
+    "total_years": 6,
+    "date_ranges": [
+      "2022 \u2013 present",
+      "2020 \u2013 2022",
+      "2019 \u2013 2020"
+    ],
+    "companies": [
+      "AWS",
+      "Skills\nProgramming: Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL",
+      "HTML",
+      "CSS",
+      "NLP"
+    ],
+    "job_titles": [
+      "Software Engineer",
+      "Intern"
+    ]
+  }
+}
